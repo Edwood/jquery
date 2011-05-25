@@ -1,3 +1,5 @@
+Edwood was here!
+
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
